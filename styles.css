@@ -132,6 +132,7 @@ nav img {
   flex: 0 0 48%;
   color: white;
   margin-bottom: 40px;
+  padding: 100px;
   margin-top: 30px;
 }
 
@@ -281,6 +282,7 @@ nav img {
 
 .mini-card p {
   margin-bottom: 30px;
+  line-height: 1.5rem;
 }
 
 @media (max-width: 700px) {
